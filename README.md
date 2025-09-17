@@ -1,4 +1,4 @@
-# Hey! I'm Subhashini Sivakumar 👋
+# Hey, I'm Subhashini! 👋
 - 💡 Exploring UI/UX • Frontend Development • Web Design
 - 🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
 - 🔗 I'm looking to collobrate on Web developing, UI/UX designing

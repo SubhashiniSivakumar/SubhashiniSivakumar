@@ -9,7 +9,7 @@
 - ☺️ Pronouns: she/her
 - ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
 
-  <button>C program</button>
+ 
 
 
 

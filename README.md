@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
 
 ## C Solved Problems
-* Number Crunching - 
+* Number Crunching - https://github.com/SubhashiniSivakumar/Number_Crunching_in_C
 
  
 

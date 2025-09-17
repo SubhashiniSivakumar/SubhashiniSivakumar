@@ -1,12 +1,13 @@
--👋 Hi there! I'm Subhashini 
--💡 Exploring UI/UX • Frontend Development • Web Design
--🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
--🔗 I'm looking to collobrate on Web developing, UI/UX designing
--📬 Pind me anytime subhashinisiva16@gmail.com
--☺️ Pronouns: she/her
--⚡ Fun fact: I turn caffeine into color palettes ☕🎨
+-<img width="717" height="692" alt="Screenshot 2025-07-07 001011" src="https://github.com/user-attachments/assets/b32eeb82-0e90-43c9-b424-1e073574f480" />
+- 👋 Hi there! I'm Subhashini 
+- 💡 Exploring UI/UX • Frontend Development • Web Design
+- 🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
+- 🔗 I'm looking to collobrate on Web developing, UI/UX designing
+- 📬 Pind me anytime subhashinisiva16@gmail.com
+- ☺️ Pronouns: she/her
+- ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
 
-# Hacker-Rank
+## Hackerrank
 
 
 <!--

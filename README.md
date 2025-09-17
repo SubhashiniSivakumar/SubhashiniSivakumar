@@ -9,6 +9,9 @@
 - ☺️ Pronouns: she/her
 - ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
 
+##C Solved Problems
+- Number Crunching - 
+
  
 
 

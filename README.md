@@ -1,4 +1,4 @@
-# Hey, I'm Subhashini! 👋
+# Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 > “Stay hungry 🍽️, stay foolish 🤓.” – Steve Jobs
 - 💡 Exploring UI/UX • Frontend Development • Web Design
 - 🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving

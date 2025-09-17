@@ -1,10 +1,10 @@
-👋 Hi there! I'm Subhashini 
-💡 Exploring UI/UX • Frontend Development • Web Design
-🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
-🔗 I'm looking to collobrate on Web developing, UI/UX designing
-📬 Pind me anytime subhashinisiva16@gmail.com
-☺️ Pronouns: she/her
-⚡ Fun fact: I turn caffeine into color palettes ☕🎨
+-👋 Hi there! I'm Subhashini 
+-💡 Exploring UI/UX • Frontend Development • Web Design
+-🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
+-🔗 I'm looking to collobrate on Web developing, UI/UX designing
+-📬 Pind me anytime subhashinisiva16@gmail.com
+-☺️ Pronouns: she/her
+-⚡ Fun fact: I turn caffeine into color palettes ☕🎨
 
 # Hacker-Rank
 

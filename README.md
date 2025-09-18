@@ -1,5 +1,5 @@
 # Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-> “Stay hungry 🍽️, stay foolish 🤓.” – Steve Jobs
+> “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
 
 
 - 💡 Exploring UI/UX • Frontend Development • Web Design

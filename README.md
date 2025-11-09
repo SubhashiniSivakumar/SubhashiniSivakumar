@@ -12,6 +12,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhashiniSivakumar&theme=onestar&no-frame=true&row=1&margin-w=15" />
+</p>
 
 
 

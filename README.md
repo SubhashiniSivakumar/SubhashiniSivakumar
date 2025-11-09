@@ -13,17 +13,13 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=100&section=header&text=🐍%20Contribution%20Snake%20Tracker&fontSize=30&fontColor=ffffff" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=2" />
+  <h3>⚡ Contribution Snake ⚡</h3>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="box-shadow: 0 0 20px rgba(0,170,255,0.6); border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047ab,100:00aaff&height=2" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ab,100:00aaff&height=100&section=footer" />
-</p>
 
 
 

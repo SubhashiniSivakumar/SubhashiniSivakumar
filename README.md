@@ -12,13 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
 
-👆 Looks fun *and* shows your coding spirit!
-
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=200&section=header&text=Hey%20I'm%20Subhashini%20S💫&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:89f7fe,100:66a6ff&height=220&section=header&text=✨%20Hey,%20I'm%20Subhashini%20S%20🌷&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Creative%20Web%20Designer%20|%20Tech%20Explorer%20|%20Dream%20Builder&descAlignY=55&descAlign=50" />
 </p>
+
 
 
  

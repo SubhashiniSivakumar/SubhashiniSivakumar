@@ -3,13 +3,14 @@
 
 ### 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva&height=50"/>
 </p>
 
 ### 🏆 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00aaff&text_color=ffffff&icon_color=00aaff" /><br>
   <img src="https://streak-stats.demolab.com?user=SubhashiniSivakumar&theme=tokyonight&background=0D1117&border=00aaff&stroke=0072ff&ring=00aaff&fire=00c6ff&currStreakNum=00bfff&sideNums=00aaff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=cccccc" alt="Subhashini S Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00aaff&text_color=ffffff&icon_color=00aaff" />
+  
 </p>
 
 

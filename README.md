@@ -16,11 +16,9 @@
 
 
 
-### 🌍 3. **Dynamic GitHub Badges**
-
-![GitHub followers](https://img.shields.io/github/followers/SubhashiniSivakumar?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/SubhashiniSivakumar?label=Stars&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=SubhashiniSivakumar&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=200&section=header&text=Hey%20I'm%20Subhashini%20S💫&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+</p>
 
 
  

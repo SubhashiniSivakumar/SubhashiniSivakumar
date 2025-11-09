@@ -12,17 +12,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=tokyonight" height="160" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashiniSivakumar&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=SubhashiniSivakumar&theme=tokyonight&background=0D1117&border=00aaff&stroke=0072ff&ring=00aaff&fire=00c6ff&currStreakNum=00bfff&sideNums=00aaff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=cccccc" alt="Subhashini S Streak" />
 </p>
-
-
 
 
 

@@ -8,15 +8,13 @@
 
 ### 🏆 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00aaff&text_color=ffffff&icon_color=00aaff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
-</p>
-
-
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00aaff&text_color=ffffff&icon_color=00aaff" /><br>
   <img src="https://streak-stats.demolab.com?user=SubhashiniSivakumar&theme=tokyonight&background=0D1117&border=00aaff&stroke=0072ff&ring=00aaff&fire=00c6ff&currStreakNum=00bfff&sideNums=00aaff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=cccccc" alt="Subhashini S Streak" />
 </p>
+
+
+
+
 
 
 

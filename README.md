@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhashiniSivakumar&theme=react-dark&bg_color=0D1117&color=00aaff&line=00aaff&point=ffffff&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Subhashini+S;Creative+Web+Designer;Front-End+Developer;Lover+of+Minimal+Aesthetics" />
 </p>
 
 

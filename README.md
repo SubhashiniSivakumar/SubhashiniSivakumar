@@ -21,8 +21,9 @@
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/>
   </a>
   <a href="https://www.hackerrank.com/profile/subhashinisiva16" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank Logo" />
 </a>
+
 
 </p>
 

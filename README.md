@@ -14,9 +14,9 @@
 
 ### Let's Connect
 <p>
-  <a href="www.linkedin.com/in/subhashini-sivakumar-837277262" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
-  </a>
+  <a href="https://github.com/SubhashiniSivakumar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Logo" />
+</a>
   <a href="https://github.com/SubhashiniSivakumar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/>
   </a>

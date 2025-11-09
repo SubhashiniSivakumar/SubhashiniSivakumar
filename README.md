@@ -2,7 +2,7 @@
 > “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
 
 ### 🧠 Tech Stack
-<table align="center">
+<table >
   <tr>
     <td><img src="https://skillicons.dev/icons?i=html" height="45"></td>
     <td><img src="https://skillicons.dev/icons?i=css" height="45"></td>
@@ -21,6 +21,9 @@
 
 
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=💻+Tech+Stack:+HTML,+CSS,+JavaScript,+React,+Node.js;🎨+Tools:+Figma,+Git,+VS+Code,+GitHub" />
+</p>
 
 
 

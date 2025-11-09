@@ -13,13 +13,18 @@
 </p>
 
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00ADEF&center=true&width=600&lines=⚡+Watch+my+contributions+come+alive!+⚡;🐍+The+snake+keeps+chasing+my+commits!+💙" />
-</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=100&section=header&text=🐍%20Contribution%20Snake%20Tracker&fontSize=30&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ab,100:00aaff&height=100&section=footer" />
+</p>
+
 
 
 

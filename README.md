@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Subhashini+S;Creative+Web+Designer;Front-End+Developer;Lover+of+Minimal+Aesthetics" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00aaff,100:0047ab&height=2&section=footer" />
 </p>
+
 
 
 

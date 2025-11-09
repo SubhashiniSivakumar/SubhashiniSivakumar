@@ -20,10 +20,15 @@
 </p>
 
 
+<h2 align="center">💫 Tech Stack 💫</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=100&section=header&text=💫%20Tech%20Stack%20💫&fontSize=30&fontColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00aaff,100:0047ab&height=2&section=footer" />
+</p>
 
 
 

@@ -21,8 +21,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhashiniSivakumar&theme=tokyo-night&bg_color=0D1117&line=00aaff&point=00c6ff&color=00aaff&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0047ab&height=100&section=header&text=💫%20Tech%20Stack%20💫&fontSize=30&fontColor=ffffff" />
 </p>
+
 
 
 

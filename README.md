@@ -13,12 +13,20 @@
 </p>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=2" />
-  <h3>⚡ Contribution Snake ⚡</h3>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="box-shadow: 0 0 20px rgba(0,170,255,0.6); border-radius: 10px;" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047ab,100:00aaff&height=2" />
-</div>
+<h2 align="center">🐍 My Contribution Activity 🩵</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=700&color=00ADEF&center=true&width=700&lines=Each+commit+makes+the+snake+longer...;Keep+the+streak+alive!+🔥" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00aaff,100:0047ab&height=2&section=footer" />
+</p>
+
 
 
 

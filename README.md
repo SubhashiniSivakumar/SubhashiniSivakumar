@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/resources/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00aaff&text_color=ffffff&icon_color=00aaff" />
 </p>
+
 
 
 

@@ -1,7 +1,7 @@
 # Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 > “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
 ### 🧠 Tech Stack
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva" />
 </p>
 

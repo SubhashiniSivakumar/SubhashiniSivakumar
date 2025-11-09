@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=SubhashiniSivakumar&theme=tokyonight&background=0D1117&border=00aaff&stroke=0072ff&ring=00aaff&fire=00c6ff&currStreakNum=00bfff&sideNums=00aaff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=cccccc" height="130" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 

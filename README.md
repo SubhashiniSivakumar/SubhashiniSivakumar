@@ -3,7 +3,7 @@
 
 ### 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva&height=50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva&height=20"/>
 </p>
 
 ### 🏆 GitHub Stats

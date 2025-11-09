@@ -20,9 +20,8 @@
 </p>
 
 
-  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=💻+Tech+Stack:+HTML,+CSS,+JavaScript,+React,+Node.js;🎨+Tools:+Figma,+Git,+VS+Code,+GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhashiniSivakumar&theme=tokyo-night&bg_color=0D1117&line=00aaff&point=00c6ff&color=00aaff&hide_border=true" />
 </p>
 
 

@@ -11,10 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" alt="SubhashiniSivakumar's GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/resources/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
 

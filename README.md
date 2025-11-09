@@ -17,14 +17,10 @@
   <a href="https://www.hackerrank.com/profile/subhashinisiva16" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn Logo" />
 </a>
+  
   <a href="https://github.com/SubhashiniSivakumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/subhashinisiva16" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank Logo" />
-</a>
-
-
 </p>
 
 

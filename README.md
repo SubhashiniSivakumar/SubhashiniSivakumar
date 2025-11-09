@@ -1,15 +1,15 @@
 # Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 > “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
 
-### 🧠 Tech Stack
+### ⚙️Tech Stack
 <table >
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" height="45"></td>
-    <td><img src="https://skillicons.dev/icons?i=css" height="45"></td>
-    <td><img src="https://skillicons.dev/icons?i=js" height="45"></td>
-    <td><img src="https://skillicons.dev/icons?i=react" height="45"></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" height="45"></td>
-    <td><img src="https://skillicons.dev/icons?i=c" height="45"></td>
+    <td><img src="https://skillicons.dev/icons?i=c" height="30"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="30"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="30"></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="30"></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="30"></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="30"></td>
   </tr>
 </table>
 ### 📈GitHub Stats
@@ -20,15 +20,7 @@
 </p>
 
 
-<h2 align="center">💫 Tech Stack 💫</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00aaff,100:0047ab&height=2&section=footer" />
-</p>
 
 
 

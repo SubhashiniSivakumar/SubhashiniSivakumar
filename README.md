@@ -14,8 +14,8 @@
 
 ### Let's Connect
 <p>
-  <a href="https://github.com/SubhashiniSivakumar" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub Logo" />
+  <a href="https://www.hackerrank.com/profile/subhashinisiva16" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Logo" />
 </a>
   <a href="https://github.com/SubhashiniSivakumar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/>

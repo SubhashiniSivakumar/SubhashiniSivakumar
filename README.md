@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhashiniSivakumar&theme=onestar&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhashiniSivakumar&theme=react-dark&bg_color=0D1117&color=00aaff&line=00aaff&point=ffffff&hide_border=true" />
 </p>
+
 
 
 

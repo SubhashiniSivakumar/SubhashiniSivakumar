@@ -13,9 +13,18 @@
 </p>
 
 ### Let's Connect
-<img src="https://skillicons.dev/icons?i=linkedin" height="30">
-<img src="https://skillicons.dev/icons?i=github" height="30">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="30">
+<p align="center">
+  <a href="www.linkedin.com/in/subhashini-sivakumar-837277262" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SubhashiniSivakumar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/subhashinisiva16" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
+  </a>
+</p>
+
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />

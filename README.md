@@ -11,7 +11,7 @@
     <td><img src="https://skillicons.dev/icons?i=figma" height="45"></td>
     <td><img src="https://skillicons.dev/icons?i=c" height="45"></td>
   </tr>
-
+</table>
 ### 📈GitHub Stats
 
 <p >
@@ -21,7 +21,7 @@
 
 
   
-</table>
+
 
 
 

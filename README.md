@@ -1,8 +1,11 @@
 # Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 > “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
 ### 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva" />
+
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=radical" alt="SubhashiniSivakumar's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=radical" alt="SubhashiniSivakumar's GitHub Streak" height="160"/>
 </p>
 
 - 💡 Exploring UI/UX • Frontend Development • Web Design
@@ -11,7 +14,10 @@
 - 📬 Pind me anytime subhashinisiva16@gmail.com
 - ☺️ Pronouns: she/her
 - ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
-
+- 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva" />
+</p>
 
  
 

@@ -18,9 +18,8 @@
 </p>
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" alt="SubhashiniSivakumar's GitHub Stats" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=ocean_dark" alt="SubhashiniSivakumar's GitHub Streak" height="120
-    "/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" alt="SubhashiniSivakumar's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
 
  

@@ -12,12 +12,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
 
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=tokyonight" height="160" />
 </p>
 
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashiniSivakumar&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 
 

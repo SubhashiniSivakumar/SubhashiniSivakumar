@@ -1,26 +1,20 @@
 # Hey, I'm Subhashini! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 > “Stay hungry 🍽️, Stay foolish 🤓.” – Steve Jobs
+
 ### 🧠 Tech Stack
-
-
-
-</p>
-
-- 💡 Exploring UI/UX • Frontend Development • Web Design
-- 🌱 I'm currently learning Figma, Flutter, SQL, Problem-solving
-- 🔗 I'm looking to collobrate on Web developing, UI/UX designing
-- 📬 Pind me anytime subhashinisiva16@gmail.com
-- ☺️ Pronouns: she/her
-- ⚡ Fun fact: I turn caffeine into color palettes ☕🎨
-- 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,figma,canva" />
 </p>
+
 ### 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight" alt="SubhashiniSivakumar's GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhashiniSivakumar&theme=blueberry" alt="SubhashiniSivakumar's GitHub Streak" height="150"/>
 </p>
+<h2 align="center">
+  👋 Hi there! I'm <b>Subhashini S</b> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;Problem+Solver+on+HackerRank;Passionate+Tech+Explorer;Lifelong+Learner" alt="Typing Animation" />
+</h2>
 
  
 

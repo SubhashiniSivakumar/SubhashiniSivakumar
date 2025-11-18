@@ -13,6 +13,13 @@
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=SubhashiniSivakumar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00aaff&text_color=ffffff&icon_color=00c6ff&border_color=00aaff" height="130" />
   <img src="https://streak-stats.demolab.com?user=SubhashiniSivakumar&theme=tokyonight&background=0D1117&border=00aaff&stroke=0072ff&ring=00aaff&fire=00c6ff&currStreakNum=00bfff&sideNums=00aaff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=cccccc" height="130" />
+  <a href="https://dribbble.com/subhashini-sivakumar" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" height="40" />
+</a>
+<a href="https://www.behance.net/subhashsivakum1" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" />
+</a>
+
 </p>
 
 ### 🔗 Let's Connect
